@@ -1,0 +1,15 @@
+C:\Users\marti\source\repos\bibblan\bin\Debug\net7.0\bibblan.exe
+C:\Users\marti\source\repos\bibblan\bin\Debug\net7.0\bibblan.deps.json
+C:\Users\marti\source\repos\bibblan\bin\Debug\net7.0\bibblan.runtimeconfig.json
+C:\Users\marti\source\repos\bibblan\bin\Debug\net7.0\bibblan.dll
+C:\Users\marti\source\repos\bibblan\bin\Debug\net7.0\bibblan.pdb
+C:\Users\marti\source\repos\bibblan\obj\Debug\net7.0\bibblan.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\bibblan\obj\Debug\net7.0\bibblan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\bibblan\obj\Debug\net7.0\bibblan.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\bibblan\obj\Debug\net7.0\bibblan.AssemblyInfo.cs
+C:\Users\marti\source\repos\bibblan\obj\Debug\net7.0\bibblan.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\bibblan\obj\Debug\net7.0\bibblan.dll
+C:\Users\marti\source\repos\bibblan\obj\Debug\net7.0\refint\bibblan.dll
+C:\Users\marti\source\repos\bibblan\obj\Debug\net7.0\bibblan.pdb
+C:\Users\marti\source\repos\bibblan\obj\Debug\net7.0\bibblan.genruntimeconfig.cache
+C:\Users\marti\source\repos\bibblan\obj\Debug\net7.0\ref\bibblan.dll
